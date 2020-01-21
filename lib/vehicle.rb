@@ -1,5 +1,5 @@
 class Vehicle
   attr_accessor :wheel_size, :wheel_number 
-  def ini
+  def initialize
 
 end
